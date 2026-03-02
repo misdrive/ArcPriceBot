@@ -1,0 +1,13 @@
+bobcat-i-recipe:155
+tempest-i-recipe:503
+burltetta-recipe:1150
+vulcano-blueprint:268
+hullcracker-blueprint:2400
+silencer-iii:300
+horizontal-grip:333
+kinetic-converter:565
+looting-mk-3-safekeeper-blueprint:840
+looting-mk-3-survivor-blueprint:1383
+bobcat-ii:0
+bobcat-iv:233
+bobcat-i:0

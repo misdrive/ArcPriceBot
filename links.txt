@@ -1,0 +1,13 @@
+[Blueprint]
+https://metaforge.app/arc-raiders/database/item/bobcat-i-recipe
+https://metaforge.app/arc-raiders/database/item/tempest-i-recipe
+https://metaforge.app/arc-raiders/database/item/burltetta-recipe
+https://metaforge.app/arc-raiders/database/item/vulcano-blueprint
+https://metaforge.app/arc-raiders/database/item/hullcracker-blueprint
+https://metaforge.app/arc-raiders/database/item/looting-mk-3-safekeeper-blueprint
+https://metaforge.app/arc-raiders/database/item/looting-mk-3-survivor-blueprint
+
+[Attachments]
+https://metaforge.app/arc-raiders/database/item/silencer-iii
+https://metaforge.app/arc-raiders/database/item/horizontal-grip
+https://metaforge.app/arc-raiders/database/item/kinetic-converter
